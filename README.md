@@ -57,9 +57,7 @@
 ---
 
 ## פרויקטים חיצוניים
-
-(נא לעדכן במידת הצורך)
-
+בrepo בגיט או בלינקדין 
 ---
 
 📩 **ליצירת קשר:** [omershay1212@gmail.com](mailto:omershay1212@gmail.com)
